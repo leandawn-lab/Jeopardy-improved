@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1621331389 source:c:\users\lyndo\onedrive\desktop\programming projects\c++ programming\jeopardy improved\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<list>
+
